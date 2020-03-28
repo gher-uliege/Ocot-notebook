@@ -6,6 +6,8 @@ Click on the "launch binder" icon to start the notebooks. Setting-up the working
 
 * Linear regression [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gher-ulg/Ocot-notebook/master?filepath=LinearRegression\_blank.ipynb)
 
+* Air-Sea heat fluxes [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gher-ulg/Ocot-notebook/master?filepath=OceanHeatFluxes.ipynb)
+
 ## Downloading
 
 To download a file (like a figure), select `File -> Open...` in the menu. This opens a new window with a file manager. Tick the check-box of the file and select `Download`.
