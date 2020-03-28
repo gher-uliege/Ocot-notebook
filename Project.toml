@@ -1,4 +1,5 @@
 [deps]
 Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
 NCDatasets = "85f8d34a-cbdd-5861-8df4-14fed0d494ab"
+PhysOcean = "3725be50-bbbd-5592-92c3-2f0e82159c3e"
 PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
